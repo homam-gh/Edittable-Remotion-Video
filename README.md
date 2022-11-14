@@ -22,3 +22,6 @@ there is an inline tinyMCE WYSIWIG editor that can be changed to a modal format
 - adding tests
 - using context for controls
 - may be adding some styling
+
+## Warning:
+tinyMCE is licenced for local host but not for use in codesanbox so it shows a warning on code sandbox
